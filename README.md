@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -15,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
@@ -54,11 +56,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
