@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/Debmalya06/MyLeetcode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
