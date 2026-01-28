@@ -1,13 +1,13 @@
 class Solution {
     public int maximumSum(int[] arr) {
-        int best=arr[0];
-        int del=0;
+        int nodel=arr[0];
+        int onedel=0;
         int ans=arr[0];
         for(int i=1;i<arr.length;i++){
-            del= Math.max(best, del+arr[i]);
-              best= Math.max(arr[i], arr[i]+best);
-           ans = Math.max(ans,(Math.max(del,best)));
-              }
+            onedel=Math.max(nodel,onedel+arr[i]);
+            nodel= Math.max(arr[i], nodel+arr[i]);
+            ans = Math.max(ans, Math.max(onedel, nodel));
+        }
         return ans;
     }
 }
