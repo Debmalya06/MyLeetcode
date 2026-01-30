@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debmalya06/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debmalya06/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
