@@ -19,6 +19,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
