@@ -20,6 +20,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
