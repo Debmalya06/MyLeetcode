@@ -6,12 +6,11 @@ class Solution {
     int sum = 0, count = 0;
     for (int num : nums) {
         sum += num;
-        count += prefixCount.getOrDefault(sum - k, 0);
+        int ques=sum-k;
+        count += prefixCount.getOrDefault(ques, 0);
         prefixCount.put(sum, prefixCount.getOrDefault(sum, 0) + 1);
     }
 
     return count;
-
-
     }
 }
