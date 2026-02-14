@@ -120,6 +120,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Debmalya06/MyLeetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Debmalya06/MyLeetcode/tree/master/0577-employee-bonus) |
 | [1148-article-views-i](https://github.com/Debmalya06/MyLeetcode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Debmalya06/MyLeetcode/tree/master/1280-students-and-examinations) |
