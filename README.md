@@ -18,6 +18,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/Debmalya06/MyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -72,6 +73,7 @@
 | [0567-permutation-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/Debmalya06/MyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
