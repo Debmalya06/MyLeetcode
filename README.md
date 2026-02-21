@@ -80,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Debmalya06/MyLeetcode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Debmalya06/MyLeetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
 ## Recursion
