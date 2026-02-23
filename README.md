@@ -119,11 +119,13 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Debmalya06/MyLeetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Debmalya06/MyLeetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Debmalya06/MyLeetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 ## Database
 |  |
