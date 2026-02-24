@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Debmalya06/MyLeetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debmalya06/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -120,6 +121,7 @@
 | [0009-palindrome-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Debmalya06/MyLeetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Debmalya06/MyLeetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Debmalya06/MyLeetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
 ## Recursion
