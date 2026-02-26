@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/Debmalya06/MyLeetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Debmalya06/MyLeetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -76,6 +77,7 @@
 | [0567-permutation-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Debmalya06/MyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Debmalya06/MyLeetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
