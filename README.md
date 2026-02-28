@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Debmalya06/MyLeetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debmalya06/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
