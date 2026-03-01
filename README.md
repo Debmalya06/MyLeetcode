@@ -20,6 +20,7 @@
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Debmalya06/MyLeetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Debmalya06/MyLeetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Debmalya06/MyLeetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -40,6 +41,7 @@
 | [0567-permutation-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Debmalya06/MyLeetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Debmalya06/MyLeetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
