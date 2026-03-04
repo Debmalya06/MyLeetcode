@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Debmalya06/MyLeetcode/tree/master/0057-insert-interval) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -151,6 +153,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
