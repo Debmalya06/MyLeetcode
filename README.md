@@ -63,11 +63,13 @@
 | [0443-string-compression](https://github.com/Debmalya06/MyLeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
