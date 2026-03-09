@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debmalya06/MyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Debmalya06/MyLeetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Debmalya06/MyLeetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Debmalya06/MyLeetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
