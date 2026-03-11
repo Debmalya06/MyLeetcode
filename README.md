@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Debmalya06/MyLeetcode/tree/master/0724-find-pivot-index) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Debmalya06/MyLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Debmalya06/MyLeetcode/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
