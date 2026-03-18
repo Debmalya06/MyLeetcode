@@ -13,7 +13,7 @@ class Solution {
                     stack.pop();
                 }
 
-                n = 0;// to donot push further
+                n = 0;// to donot push further(here come thats mean peek>-n)
                 break;
             }
 
