@@ -66,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Debmalya06/MyLeetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Debmalya06/MyLeetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Debmalya06/MyLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -103,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Debmalya06/MyLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
@@ -197,6 +199,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -224,4 +227,8 @@
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Debmalya06/MyLeetcode/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
