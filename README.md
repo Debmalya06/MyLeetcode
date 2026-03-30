@@ -16,6 +16,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Debmalya06/MyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Debmalya06/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Debmalya06/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Debmalya06/MyLeetcode/tree/master/0443-string-compression) |
