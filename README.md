@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debmalya06/MyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Debmalya06/MyLeetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Debmalya06/MyLeetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0344-reverse-string) |
@@ -247,4 +249,8 @@
 | [0383-ransom-note](https://github.com/Debmalya06/MyLeetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Debmalya06/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
