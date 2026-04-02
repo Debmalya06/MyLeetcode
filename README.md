@@ -46,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Debmalya06/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +62,7 @@
 | [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
@@ -166,6 +168,7 @@
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -199,6 +202,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -253,4 +257,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
