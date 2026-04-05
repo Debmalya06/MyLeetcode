@@ -6,23 +6,27 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
-        ListNode prev = dummy;
-
+        ListNode before = dummy;
+ 
         // Step 1: move prev to (left-1) position
         for (int i = 1; i < left; i++) {
-            prev = prev.next;
+            before = before.next;
         }
 
         // Step 2: reverse from left to right
-        ListNode curr = prev.next;
+        ListNode curr = before.next;
+        ListNode prev = null;
 
-        for (int i = 0; i < right - left; i++) {
-            ListNode next = curr.next;
-            curr.next = next.next;
-            next.next = prev.next;
-            prev.next = next;
+        for (int i = 0; i < right - left+1; i++) {
+              ListNode x = curr.next;
+            curr.next = prev;
+            prev=curr;
+            curr = x;
         }
-
+        // adjust with before part and last part
+        ListNode next = before.next;
+        before.next= prev;
+        next.next = curr;
         return dummy.next;
     }
 }
