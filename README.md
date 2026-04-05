@@ -165,6 +165,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -184,6 +185,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Debmalya06/MyLeetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0206-reverse-linked-list) |
