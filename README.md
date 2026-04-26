@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Debmalya06/MyLeetcode/tree/master/0057-insert-interval) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Debmalya06/MyLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Debmalya06/MyLeetcode/tree/master/0141-linked-list-cycle) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Debmalya06/MyLeetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
@@ -220,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debmalya06/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -259,6 +263,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Debmalya06/MyLeetcode/tree/master/0739-daily-temperatures) |
