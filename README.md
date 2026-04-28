@@ -30,6 +30,7 @@
 | [0724-find-pivot-index](https://github.com/Debmalya06/MyLeetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Debmalya06/MyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Debmalya06/MyLeetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Debmalya06/MyLeetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -254,6 +255,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Debmalya06/MyLeetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Debmalya06/MyLeetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Debmalya06/MyLeetcode/tree/master/0860-lemonade-change) |
 ## Enumeration
 |  |
 | ------- |
