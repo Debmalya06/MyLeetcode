@@ -3,25 +3,46 @@ class Solution {
 
         if (head == null || head.next == null) return head;
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        ListNode dummy = null;
+        ListNode prevleft = null;   
+        ListNode left = head;
+        ListNode right;
 
-        ListNode prev = dummy;   // node before pair
-
-        while (prev.next != null && prev.next.next != null) {
-
-            ListNode first = prev.next;        // 1st node
-            ListNode second = first.next;      // 2nd node
-
-            // swapping
-            first.next = second.next;
-            second.next = first;
-            prev.next = second;
-
-            // move prev to next pair
-            prev = first;
+        while (left!=null) {
+            right = left.next;
+          
+            if(right!=null){
+                ListNode nextleft = right.next;
+                //reverse
+                reverse(left,2);
+                if(prevleft!=null) {
+                    prevleft.next= right;
+                }
+                if(dummy==null) dummy = right;
+                 prevleft = left;
+                left = nextleft;
+            }
+            else{
+                if(prevleft!=null){
+                    prevleft.next= left;
+                    if(dummy==null) dummy=left;
+                    break;
+                }
+            }
         }
 
-        return dummy.next;
+        return dummy;
+    }
+    void reverse (ListNode head, int time){
+        ListNode curr = head;
+        ListNode prev = null;
+        while(time>0){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+
+            time--;
+        }
     }
 }
