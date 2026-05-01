@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Debmalya06/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Debmalya06/MyLeetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Debmalya06/MyLeetcode/tree/master/0056-merge-intervals) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Debmalya06/MyLeetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Debmalya06/MyLeetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
@@ -254,6 +256,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Debmalya06/MyLeetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Debmalya06/MyLeetcode/tree/master/0409-longest-palindrome) |
