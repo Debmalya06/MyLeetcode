@@ -202,6 +202,7 @@
 | [0066-plus-one](https://github.com/Debmalya06/MyLeetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
