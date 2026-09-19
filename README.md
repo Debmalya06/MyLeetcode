@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/Debmalya06/MyLeetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Debmalya06/MyLeetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Debmalya06/MyLeetcode/tree/master/0724-find-pivot-index) |
@@ -113,6 +114,7 @@
 | [0394-decode-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/Debmalya06/MyLeetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Debmalya06/MyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Debmalya06/MyLeetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Debmalya06/MyLeetcode/tree/master/0844-backspace-string-compare) |
