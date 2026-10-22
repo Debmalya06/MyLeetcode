@@ -26,6 +26,7 @@
 | [0239-sliding-window-maximum](https://github.com/Debmalya06/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Debmalya06/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Debmalya06/MyLeetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Debmalya06/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@
 | [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Debmalya06/MyLeetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Debmalya06/MyLeetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -141,6 +143,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Debmalya06/MyLeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Debmalya06/MyLeetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Debmalya06/MyLeetcode/tree/master/0409-longest-palindrome) |
@@ -245,6 +248,7 @@
 | [0148-sort-list](https://github.com/Debmalya06/MyLeetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -303,6 +307,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Debmalya06/MyLeetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Debmalya06/MyLeetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Debmalya06/MyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Debmalya06/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -319,6 +324,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Debmalya06/MyLeetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,4 +341,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
