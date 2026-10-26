@@ -41,6 +41,7 @@
 | [0860-lemonade-change](https://github.com/Debmalya06/MyLeetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Debmalya06/MyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Debmalya06/MyLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Debmalya06/MyLeetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Debmalya06/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@
 | [0455-assign-cookies](https://github.com/Debmalya06/MyLeetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Debmalya06/MyLeetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Debmalya06/MyLeetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Debmalya06/MyLeetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
@@ -221,6 +223,7 @@
 | [0066-plus-one](https://github.com/Debmalya06/MyLeetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Debmalya06/MyLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Debmalya06/MyLeetcode/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Debmalya06/MyLeetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/Debmalya06/MyLeetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -254,6 +257,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Debmalya06/MyLeetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +335,7 @@
 | [0239-sliding-window-maximum](https://github.com/Debmalya06/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Debmalya06/MyLeetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -348,6 +353,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Debmalya06/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Debmalya06/MyLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -357,4 +363,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Debmalya06/MyLeetcode/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Debmalya06/MyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
